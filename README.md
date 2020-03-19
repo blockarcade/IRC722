@@ -1,2 +1,1 @@
-# IRC722
-IRC722
+# IRC Repository
